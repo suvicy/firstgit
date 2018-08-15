@@ -1,3 +1,5 @@
 class  main{
-	mainĞÂ
+
+	main newOldHeBing
+
 }
